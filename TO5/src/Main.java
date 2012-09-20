@@ -17,7 +17,7 @@ public class Main
 		// TODO Auto-generated method stub
 		System.out.println("hoi");
 		System.out.println("Cornips edit");
-		System.out.println("Timo  edit");
+		System.out.println("Timo edit");
 	}
 
 }
